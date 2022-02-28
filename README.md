@@ -1,2 +1,2 @@
 # Calculator
-https://akash522.github.io/Calculator/index20%.html
+https://akash522.github.io/Calculator/index%20.html
